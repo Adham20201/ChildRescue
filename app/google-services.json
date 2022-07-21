@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822088568418",
+    "project_id": "child-rescue-c7aa3",
+    "storage_bucket": "child-rescue-c7aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822088568418:android:df3d1e2a4df82d5742cb3b",
+        "android_client_info": {
+          "package_name": "com.example.childrescue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822088568418-emkarhptr27g41o7po6407rjnbu9i14u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY4uvDdIBYSAC2XDxNIBvGcJZ8pv2VWS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822088568418-emkarhptr27g41o7po6407rjnbu9i14u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
